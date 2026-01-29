@@ -1,7 +1,7 @@
 public class AreaOfSquare {
     public static void main(String[] args) {
 
-        int side = 5;   // inbuilt input (you can change this value)
+        int side = 6;   // inbuilt input (you can change this value)
 
         int area = side * side;
 
